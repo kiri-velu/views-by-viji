@@ -541,13 +541,18 @@ textarea {
 
 .fa-coffee,
 .fa-question,
-.fa-landmark,
-.fa-wpexplorer,
 .fa-parachute {
   display: block;
   margin: auto;
   width: 250px;
   opacity: 0.6;
+}
+
+.fa-wpexplorer {
+  width: 400px;
+  display: block;
+  margin: auto;
+  opacity: .6;
 }
 
 .error a {
