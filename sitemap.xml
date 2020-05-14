@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+
+    <loc>https://viewsbyviji.com</loc>
+
+    <lastmod>2020-01-15</lastmod>
+
+    <changefreq>yearly</changefreq>
+
+    <priority>0.5</priority>
+
+  </url>
+
+  <url>
+
+    <loc>https://viewsbyviji.com/portfolio.html</loc>
+
+    <lastmod>2020-01-15</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>1.0</priority>
+
+  </url>
+
+  <url>
+
+    <loc>https://viewsbyviji.com/services.html</loc>
+
+    <lastmod>2020-01-15</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>1.0</priority>
+
+  </url>
+
+  <url>
+
+    <loc>https://viewsbyviji.com/company.html</loc>
+
+    <lastmod>2020-01-15</lastmod>
+
+    <changefreq>yearly</changefreq>
+
+    <priority>0.5</priority>
+
+  </url>
+
+  <url>
+
+    <loc>https://viewsbyviji.com/contact.html</loc>
+
+    <lastmod>2020-01-15</lastmod>
+
+    <changefreq>yearly</changefreq>
+
+    <priority>0.5</priority>
+
+  </url>
+
+  <url>
+
+    <loc>https://viewsbyviji.com/questions.html</loc>
+
+    <lastmod>2020-01-15</lastmod>
+
+    <changefreq>yearly</changefreq>
+
+    <priority>0.5</priority>
+
+  </url>
+    <url>
+
+    <loc>https://viewsbyviji.com/guide.html</loc>
+
+    <lastmod>2020-01-15</lastmod>
+
+    <changefreq>yearly</changefreq>
+
+    <priority>0.5</priority>
+
+  </url>
+
+  <url>
+
+    <loc>https://viewsbyviji.com/conditions.html</loc>
+
+    <lastmod>2020-01-15</lastmod>
+
+    <changefreq>yearly</changefreq>
+
+    <priority>0.5</priority>
+
+  </url>
+
+  <url>
+
+    <loc>https://viewsbyviji.com/sitemap.html</loc>
+
+    <lastmod>2020-01-15</lastmod>
+
+    <changefreq>yearly</changefreq>
+
+    <priority>0.5</priority>
+
+  </url>
+
+</urlset>
