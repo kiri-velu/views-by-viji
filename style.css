@@ -482,13 +482,10 @@ input[type="email"]:valid {
   background-color: var(--theme);
 }
 
-.fa-email,
 .fa-instagram,
 .fa-facebook,
-.fa-twitter,
 .fa-linkedin,
 .fa-flickr,
-.fa-pinterest,
 .fa-500px {
   width: 35px;
   color: var(--light);
@@ -533,7 +530,6 @@ textarea {
 }
 
 .fa-question,
-.fa-landmark,
 .fa-wpexplorer,
 .fa-parachute {
   color: var(--secondary);
