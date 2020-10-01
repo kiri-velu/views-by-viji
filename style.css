@@ -227,8 +227,7 @@ footer #info {
 .home img {
   display: block;
   margin: auto;
-  animation: slideDown 1s;
-  -webkit-animation: slideDown 1s;
+  border-radius: 2rem;
 }
 
 .home h2 {
