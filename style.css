@@ -7,12 +7,11 @@
   font: 62.5%/1.4 geneva, verdana, tahoma;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  --primary: silver;
+  --primary: gainsboro;
   --secondary: black;
-  --optional: white;
   --light: ivory;
   --dark: gray;
-  --theme: darkorange;
+  --theme: orange;
 }
 
 /* Page Style */
