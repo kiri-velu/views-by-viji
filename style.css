@@ -227,7 +227,6 @@ footer #info {
 .home img {
   display: block;
   margin: auto;
-  border: 2px solid var(--theme);
 }
 
 .home h2 {
