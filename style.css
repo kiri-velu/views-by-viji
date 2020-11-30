@@ -230,6 +230,7 @@ footer #info {
 .home img {
   display: block;
   margin: auto;
+  opacity: .8;
 }
 
 .home h2 {
