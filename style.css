@@ -548,7 +548,8 @@ textarea {
 .fa-coffee,
 .fa-explorer,
 .fa-question,
-.fa-parachute {
+.fa-parachute,
+.fa-couch {
   display: block;
   margin: auto;
   color: var(--theme);
